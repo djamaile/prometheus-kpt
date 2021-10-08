@@ -1,0 +1,12 @@
+apiVersion: kpt.dev/v1
+kind: Kptfile
+metadata:
+  name: prometheus
+info:
+  description: testing package
+  site: djamaile.dev
+  emails:
+    - rdjamaile@gmail.com
+  license: Apache-2.0
+  keywords:
+    - prometheus
